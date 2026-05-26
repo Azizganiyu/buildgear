@@ -1,1 +1,4 @@
+# Netlify / compatible static hosts only (not DigitalOcean App Platform).
+# For DO/Lovable: sitemap is generated at build time via scripts/fetch-sitemap.mjs
 /sitemap.xml  https://api.buildgearltd.com/api/v1/public/sitemap.xml  200
+/*    /index.html   200
